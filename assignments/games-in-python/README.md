@@ -5,7 +5,7 @@
 
 Nesta atividade, você vai construir o jogo da Forca em Python para praticar manipulação de strings, estruturas de repeticao, condicionais e selecao aleatoria de dados.
 
-## 📝 Atividades
+## 📝 Tarefas
 
 ### 🛠️ Build a Hangman Game
 
