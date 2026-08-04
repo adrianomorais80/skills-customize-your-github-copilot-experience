@@ -1,11 +1,11 @@
 
 # 📘 Assignment: Games in Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Nesta atividade, você vai construir o jogo da Forca em Python para praticar manipulação de strings, estruturas de repeticao, condicionais e selecao aleatoria de dados.
 
-## 📝 Tasks
+## 📝 Atividades
 
 ### 🛠️ Build a Hangman Game
 
