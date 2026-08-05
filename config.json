@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "deploy-fastapi-systemd",
+      "title": "Deploying FastAPI with systemd",
+      "description": "Deploy a FastAPI service on Linux using systemd, health checks, and logs.",
+      "path": "assignments/deploy-fastapi-systemd",
+      "dueDate": "2026-09-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Service Template",
+          "file": "fastapi-api.service.example",
+          "type": "default"
+        }
+      ]
     }
   ]
 }
